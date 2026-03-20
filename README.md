@@ -1,4 +1,4 @@
-# Application de Transcription Audio en Texte
+# Audio TO Text
 
 Cette application web permet de télécharger un fichier audio et de le transcrire en texte à l'aide du modèle Whisper d'OpenAI. Elle prend en charge plusieurs transcriptions simultanées et offre une interface utilisateur intuitive.
 
